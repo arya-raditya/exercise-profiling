@@ -14,52 +14,52 @@ Class    : B
 #### 1. View Results Tree
 ![View Results Tree](screenshots/gpa-sebelum-1.png)
 #### 2. View Results Table
-![View Results Table](screenshots\gpa-sebelum-2.png)
+![View Results Table](screenshots/gpa-sebelum-2.png)
 #### 3. Summary Report
-![Summary Report](screenshots\gpa-sebelum-3.png)
+![Summary Report](screenshots/gpa-sebelum-3.png)
 #### 4. Graph Results
-![Graph Results](screenshots\gpa-sebelum-4.png)
+![Graph Results](screenshots/gpa-sebelum-4.png)
 #### 5. Via CLI
-![Via CLI](screenshots\gpa-sebelum-5.png)
+![Via CLI](screenshots/gpa-sebelum-5.png)
 
 ### /all-student-name - before optimization
 
 #### 1. View Results Tree
-![View Results Tree](screenshots\name-sebelum-1.png)
+![View Results Tree](screenshots/name-sebelum-1.png)
 #### 2. View Results Table
-![View Results Table](screenshots\name-sebelum-2.png)
+![View Results Table](screenshots/name-sebelum-2.png)
 #### 3. Summary Report
-![Summary Report](screenshots\name-sebelum-3.png)
+![Summary Report](screenshots/name-sebelum-3.png)
 #### 4. Graph Results
-![Graph Results](screenshots\name-sebelum-4.png)
+![Graph Results](screenshots/name-sebelum-4.png)
 #### 5. Via CLI
-![Via CLI](screenshots\name-sebelum-5.png)
+![Via CLI](screenshots/name-sebelum-5.png)
 
 ### /highest-gpa - after optimization
 
 #### 1. View Results Tree
-![View Results Tree](screenshots\gpa-setelah-1.png)
+![View Results Tree](screenshots/gpa-setelah-1.png)
 #### 2. View Results Table
-![View Results Table](screenshots\gpa-setelah-2.png)
+![View Results Table](screenshots/gpa-setelah-2.png)
 #### 3. Summary Report
-![Summary Report](screenshots\gpa-setelah-3.png)
+![Summary Report](screenshots/gpa-setelah-3.png)
 #### 4. Graph Results
-![Graph Results](screenshots\gpa-setelah-4.png)
+![Graph Results](screenshots/gpa-setelah-4.png)
 #### 5. Via CLI
-![Via CLI](screenshots\gpa-setelah-5.png)
+![Via CLI](screenshots/gpa-setelah-5.png)
 
 ### /all-student-name - after optimization
 
 #### 1. View Results Tree
-![View Results Tree](screenshots\name-setelah-1.png)
+![View Results Tree](screenshots/name-setelah-1.png)
 #### 2. View Results Table
-![View Results Table](screenshots\name-setelah-2.png)
+![View Results Table](screenshots/name-setelah-2.png)
 #### 3. Summary Report
-![Summary Report](screenshots\name-setelah-3.png)
+![Summary Report](screenshots/name-setelah-3.png)
 #### 4. Graph Results
-![Graph Results](screenshots\name-setelah-4.png)
+![Graph Results](screenshots/name-setelah-4.png)
 #### 5. Via CLI
-![Via CLI](screenshots\name-setelah-5.png)
+![Via CLI](screenshots/name-setelah-5.png)
 
 ### Test Conclusion
 
