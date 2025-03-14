@@ -12,7 +12,7 @@ Class    : B
 ### /highest-gpa - before optimization
 
 #### 1. View Results Tree
-![View Results Tree](screenshots\gpa-sebelum-1.png)
+![View Results Tree](screenshots\gpa_sebelum_1.png)
 #### 2. View Results Table
 ![View Results Table](screenshots\gpa-sebelum-2.png)
 #### 3. Summary Report
